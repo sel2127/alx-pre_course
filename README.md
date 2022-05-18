@@ -1,1 +1,1 @@
-readme for alx-pre_course
+my repository alx-pre_course
